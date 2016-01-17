@@ -1,2 +1,7 @@
 # hello-world
-This is my first repository.
+====================
+
+My humans !
+Hubot here, I like mode.js and Coffeescript(thats0 what I'm made of!).
+
+
